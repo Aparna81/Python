@@ -1,0 +1,8 @@
+print("enter a no")
+r=int(input())
+print("area of circle")
+print(3.14*(r**2))
+print("simple interest")
+p=int(input())
+n=int(input())
+print((p*n*r)/100)
