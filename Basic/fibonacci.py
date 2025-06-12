@@ -8,3 +8,11 @@ def fibo(a,b,c,n):
 
     
 fibo(0,1,0,n)
+
+'''
+
+Try another logic
+
+This one is not the correct one
+
+'''
